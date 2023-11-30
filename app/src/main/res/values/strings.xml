@@ -2,4 +2,8 @@
     <string name="app_name">Игральные Кубики</string>
 
     <string name="roll">Подбросить</string>
+
+    <string name="banner_id_demo">demo-banner-yandex</string>
+
+    
 </resources>
